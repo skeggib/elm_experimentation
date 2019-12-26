@@ -1,0 +1,19 @@
+#--- VSCode
+
+.devcontainer
+.vscode
+
+#--- Elm
+
+# elm-package generated files
+elm-stuff
+# elm-repl generated files
+repl-temp-*
+
+#--- Output
+
+output/
+
+#--- Node
+
+node_modules/
